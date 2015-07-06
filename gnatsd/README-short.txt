@@ -1,0 +1,2 @@
+NATS is an open source, high-performance, lightweight, always up cloud messaging system. Unlike traditional Enterprise Messaging Systems (EMS), NATS has an always on ‘dial tone’, and does whatever is required to remain available and up. This provides a great basis for building modern, reliable, and scalable cloud and distributed systems. NATS is designed to be highly scalable, and is capable of sending over 6 Million messages per second, providing brokered throughput well in excess of other messaging projects.
+> [NATS.io](http://www.nats.io)
