@@ -157,7 +157,7 @@ docker run -it -p 0.0.0.0:4222:4222 -p 0.0.0.0:7244:7244 --rm -v $(pwd)/conf/gna
 ```
 
 Finally, we create another Node C.  We now know the routes of A and B
-so we can those to the configuration:
+so we can add those to the configuration:
 
 ```
 # Cluster Server C
